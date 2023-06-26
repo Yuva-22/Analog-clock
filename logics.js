@@ -3,6 +3,7 @@ var min = 0;
 var hour = 0;
 var d = new Date();
 
+
 setInterval(
         function(){
             d = new Date();
